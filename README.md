@@ -10,3 +10,4 @@ with store name, address including postcode, the Geolytix seamless towns and loc
 open date where known and a four way classification for size band of store. There is no
 commercial sensitive data included and the data is fully open therefore you can use it in any
 way you like.
+![Dashboard 1](https://github.com/user-attachments/assets/b3d6e2c7-a46d-4357-9afe-fc3c181c1ba3)
